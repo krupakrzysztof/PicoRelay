@@ -1,4 +1,4 @@
-# PicoSwitch
+# Pico relay
 
 The program is used to turn on the light, e.g. in a corridor, where it is required to turn it off automatically after a certain time
 
